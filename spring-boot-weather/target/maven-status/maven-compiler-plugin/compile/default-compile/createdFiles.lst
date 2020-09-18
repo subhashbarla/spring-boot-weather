@@ -1,0 +1,8 @@
+com\weather\report\model\WeatherReport.class
+com\weather\report\SwaggerConfig.class
+com\weather\report\App.class
+com\weather\report\repository\WeatherRepositoryImpl.class
+com\weather\report\service\WeatherReportService.class
+com\weather\report\AppConifg.class
+com\weather\report\repository\WeatherRepository.class
+com\weather\report\controller\WeatherReportController.class
